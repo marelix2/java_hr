@@ -7,6 +7,6 @@ public class zad4 {
 
         System.out.print(Math.nextUp(Double.MAX_VALUE));
         System.out.print(Math.nextUp(0));
-        
+
     }
 }
