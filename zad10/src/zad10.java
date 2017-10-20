@@ -13,7 +13,8 @@ public class zad10 {
     }
 
     public static String to36Base(Long var){
-        
+
+
         String retStringVar = new String();
 
         while(var.intValue() != 0){
